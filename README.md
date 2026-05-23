@@ -326,23 +326,6 @@ Identified elevated expression of immune checkpoint markers in exhausted T-cell 
 
 ---
 
-# Repository Structure
-
-```text
-├── data/
-├── notebooks/
-├── scripts/
-├── results/
-├── figures/
-├── reports/
-├── logs/
-├── containers/
-├── README.md
-└── environment.yml
-```
-
----
-
 # Reproducibility & Engineering Practices
 
 - Fully modularized analysis pipeline
@@ -351,20 +334,6 @@ Identified elevated expression of immune checkpoint markers in exhausted T-cell 
 - HPC-ready execution
 - Containerized computational environment
 - Reproducible downstream analysis and visualization
-
----
-
-# Educational Integration
-
-This project doubles as a practical teaching framework for students in:
-
-- Cancer biology
-- Immunotherapy mechanisms
-- Single-cell transcriptomics
-- Computational biology
-- Reproducible research practices
-
-Each module includes integrated tutorials and guided exercises for hands-on learning.
 
 ---
 
